@@ -1,2 +1,1 @@
-# digital-clock
-digital clock
+![digital clock](images/digital-clock.jpg)
